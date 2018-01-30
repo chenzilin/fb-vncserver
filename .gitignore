@@ -1,0 +1,7 @@
+*.o
+*.swap
+Makefile
+fb-vncserver
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
